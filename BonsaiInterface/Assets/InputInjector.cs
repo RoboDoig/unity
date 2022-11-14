@@ -10,7 +10,6 @@ using UnityEngine;
 public class InputInjector : MonoBehaviour
 {
     public BonsaiWorkflow Workflow;
-
     private IntegerSource Source;
     private DataDevice Device;
 
