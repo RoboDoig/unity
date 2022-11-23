@@ -450,9 +450,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 348c09ede3287014ab59dafd5927fed3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BonsaiWorkflowAsset: {fileID: 11400000, guid: 38b845ae4e141fe4c86724e5546ca3eb,
+  BonsaiWorkflowAsset: {fileID: 11400000, guid: 0d8819d5498d53047a2eb5c86a060a8c,
     type: 2}
-  AutoStart: 1
 --- !u!114 &2123352737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -462,7 +461,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2123352734}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70ac48c2039afcd4dbf59251b9188dea, type: 3}
+  m_Script: {fileID: 11500000, guid: a2b650201e1c8324793fa49212c03c62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BonsaiWorkflow: {fileID: 2123352736}
+  Workflow: {fileID: 2123352736}
