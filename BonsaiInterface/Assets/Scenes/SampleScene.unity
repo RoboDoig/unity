@@ -452,6 +452,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BonsaiWorkflowAsset: {fileID: 11400000, guid: 38b845ae4e141fe4c86724e5546ca3eb,
     type: 2}
+  AutoStart: 1
 --- !u!114 &2123352737
 MonoBehaviour:
   m_ObjectHideFlags: 0
